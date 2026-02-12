@@ -1,0 +1,19 @@
+# Configurações do VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependências (se usar no futuro)
+node_modules/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Cache
+.cache/
